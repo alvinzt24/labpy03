@@ -37,7 +37,7 @@ Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu p
 yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 		while kondisi:
-		perintah_yang_diulang
+		perintah yang diulang
 
 - Pernyataan break
 pernyataan break digunakan untuk menghentikan proses perulangan pada kondisi tertentu. 
