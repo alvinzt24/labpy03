@@ -24,7 +24,7 @@ perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 ![alt text](b.png)
 
 # =================Latihan 2================= #
-## ====Menampilkan bilangan terbesar dari n buah data yang diinputkan===== ##
+## =====Menampilkan bilangan terbesar dari n buah data yang diinputkan===== ##
 
 ![alt text](c.png)
 
