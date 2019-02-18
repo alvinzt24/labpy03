@@ -26,6 +26,8 @@ perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
 ![alt text](b.png)
 
+---
+
 # Latihan 2 #
 ## Menampilkan bilangan terbesar dari n buah data yang diinputkan ##
 
@@ -49,6 +51,8 @@ yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 ## Hasil Eksekusi ##
 
 ![alt text](d.png)
+
+---
 
 # Program 1 #
 
