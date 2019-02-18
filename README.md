@@ -22,3 +22,12 @@ perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 ## Hasil Eksekusi ##
 
 ![alt text](b.png)
+
+# =================Latihan 1================= #
+## menampilkan bilangan terbesar dari n buah data yang diinputkan ##
+
+![alt text](c.png)
+
+## Hasil Eksekusi ##
+
+![alt text](d.png)
