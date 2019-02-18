@@ -1,5 +1,5 @@
-# =================Latihan 1================= #
-## =========Menampilkan n bilangan acak yang lebih kecil dari 0.5========= ##
+# Latihan 1 #
+## Menampilkan n bilangan acak yang lebih kecil dari 0.5 ##
 
 ![alt text](a.png)
 
@@ -26,8 +26,8 @@ perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
 ![alt text](b.png)
 
-# =================Latihan 2================= #
-## =====Menampilkan bilangan terbesar dari n buah data yang diinputkan===== ##
+# Latihan 2 #
+## Menampilkan bilangan terbesar dari n buah data yang diinputkan ##
 
 ![alt text](c.png)
 
@@ -50,7 +50,7 @@ yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 ![alt text](d.png)
 
-# ================Program 1================= #
+# Program 1 #
 
 ![alt text](e.png)
 
