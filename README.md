@@ -11,7 +11,9 @@ Randomisasi juga dapat digunakan untuk mengacak suatu tampilan produk, atau digu
 Di Python untuk melakukan random cukup mudah.
 Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 
-	>> import random
+	> import random
+	> a = random()
+	> print(a)
 
 - Perulangan for
 Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu
@@ -27,6 +29,10 @@ perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 ## =====Menampilkan bilangan terbesar dari n buah data yang diinputkan===== ##
 
 ![alt text](c.png)
+
+- Perulangan while
+Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan
+yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 ## Hasil Eksekusi ##
 
