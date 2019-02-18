@@ -3,7 +3,7 @@
 
 ![alt text](a.png)
 
-- Pengacakan, pembangkit bilangan acak, atau random dapat digunakan untuk berbagai macam hal.
+- _**Pengacakan**_, _**pembangkit bilangan acak**_, atau _**random**_ dapat digunakan untuk berbagai macam hal.
 Salah satunya adalah untuk memecahkan kasus Monte Carlo.
 Nilai random kadang dibutuhkan juga untuk menentukan suatu pilihan.
 Atau digunakan juga untuk membuat id yang ditambahi dari string asal.
@@ -15,7 +15,7 @@ Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 			 a = random.uniform()
 			 print(a)
 
-- Perulangan **for**
+- Perulangan _**for**_
 
 	Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu
 perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
@@ -31,7 +31,7 @@ perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
 ![alt text](c.png)
 
-- Perulangan while
+- Perulangan _**while**_
 
 	Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan
 yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
@@ -39,7 +39,7 @@ yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 		while kondisi:
 			perintah yang diulang
 
-- Pernyataan break
+- Pernyataan _**break**_
 
 	pernyataan break digunakan untuk menghentikan proses perulangan pada kondisi tertentu. 
 
@@ -54,7 +54,7 @@ yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 ![alt text](e.png)
 
-- Pernyataan if
+- Pernyataan _**if**_
 
 	Pada python dikenal penggunaan struktur kondisi menggunakan statement if, dimana
 format/syntax penggunaan statement if adalah:
