@@ -10,7 +10,7 @@ for x in range (1,9):
         d=a*0.5
         print("Laba bulan ke-",x," :",d)
     if (x==8):
-        e=a*0.2
+        e=a*0.3
         print("Laba bulan ke-",x," :",e)
 total = b+b+c+c+d+d+d+e
 print("======================================")

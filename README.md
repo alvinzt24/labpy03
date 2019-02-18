@@ -53,3 +53,9 @@ yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 ![alt text](d.png)
 
 # ================Program 1================= #
+
+![alt text](e.png)
+
+## Hasil Eksekusi ##
+
+![alt text](f.png)
