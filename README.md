@@ -1,5 +1,5 @@
 # =================Latihan 1================= #
-## =====Menampilkan n bilangan acak yang lebih kecil dari 0.5===== ##
+## ==========Menampilkan n bilangan acak yang lebih kecil dari 0.5========== ##
 
 ![alt text](a.png)
 
