@@ -1,4 +1,5 @@
 # latihan 1 #
+## Menampilkan n bilangan acak yang lebih kecil dari 0.5 ##
 
 ![alt text](a.png)
 
@@ -10,13 +11,13 @@ Randomisasi juga dapat digunakan untuk mengacak suatu tampilan produk, atau digu
 Di Python untuk melakukan random cukup mudah.
 Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 
->> import random
+	>> import random
 
 - Perulangan for
 Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu
 perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
->> for x in range (start,stop)
+	>> for x in range (start,stop)
 
 ## Hasil Eksekusi ##
 
