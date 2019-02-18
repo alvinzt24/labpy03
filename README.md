@@ -11,15 +11,15 @@ Randomisasi juga dapat digunakan untuk mengacak suatu tampilan produk, atau digu
 Di Python untuk melakukan random cukup mudah.
 Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 
-	> import random
-	> a = random()
-	> print(a)
+	 _**import random**_
+	 _**a = random()**_
+	 _**print(a)**_
 
 - Perulangan for
 Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu
 perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
-	>> for x in range (start,stop)
+	 _**for x in range (start,stop)**_
 
 ## Hasil Eksekusi ##
 
