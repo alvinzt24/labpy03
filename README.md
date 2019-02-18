@@ -18,6 +18,7 @@ Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 		 print(a)
 
 - Perulangan for
+
 Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu
 perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
@@ -33,6 +34,7 @@ perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 ![alt text](c.png)
 
 - Perulangan while
+
 Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan
 yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
@@ -40,6 +42,7 @@ yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 		perintah yang diulang
 
 - Pernyataan break
+
 pernyataan break digunakan untuk menghentikan proses perulangan pada kondisi tertentu. 
 
 		if a == 0:
