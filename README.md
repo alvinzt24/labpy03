@@ -56,6 +56,14 @@ yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 ![alt text](e.png)
 
+- Pernyataan if
+
+	Pada python dikenal penggunaan struktur kondisi menggunakan statement if, dimana
+format/syntax penggunaan statement if adalah:
+
+		if kondisi:
+			statement_true
+
 ## Hasil Eksekusi ##
 
 ![alt text](f.png)
