@@ -12,7 +12,9 @@ Di Python untuk melakukan random cukup mudah.
 Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 
 	 _**import random**_
+
 	 _**a = random()**_
+
 	 _**print(a)**_
 
 - Perulangan for
