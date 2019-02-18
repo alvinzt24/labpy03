@@ -15,7 +15,7 @@ Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 			 a = random.uniform()
 			 print(a)
 
-- Perulangan for
+- Perulangan **for**
 
 	Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu
 perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
