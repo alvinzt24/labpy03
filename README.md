@@ -12,10 +12,8 @@ Di Python untuk melakukan random cukup mudah.
 Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 
 		 import random
-
-		 a = random.uniform()
-
-		 print(a)
+			 a = random.uniform()
+			 print(a)
 
 - Perulangan for
 
@@ -39,14 +37,14 @@ perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 		while kondisi:
-		perintah yang diulang
+			perintah yang diulang
 
 - Pernyataan break
 
 	pernyataan break digunakan untuk menghentikan proses perulangan pada kondisi tertentu. 
 
 		if a == 0:
-		break
+		     break
 
 ## Hasil Eksekusi ##
 
@@ -61,7 +59,7 @@ yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 	Pada python dikenal penggunaan struktur kondisi menggunakan statement if, dimana
 format/syntax penggunaan statement if adalah:
 
-		if kondisi:
+		if (kondisi):
 			statement_true
 
 ## Hasil Eksekusi ##
