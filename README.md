@@ -52,4 +52,4 @@ yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 ![alt text](d.png)
 
-# =================Program 1================= #
+# ================Program 1================= #
