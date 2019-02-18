@@ -11,8 +11,8 @@ Di Python untuk melakukan random cukup mudah.
 Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 
 >> random import
-a = random()
-print(a)
+>> a = random()
+>> print(a)
 
 - Perulangan for
 Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu
