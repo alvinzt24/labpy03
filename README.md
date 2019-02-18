@@ -21,7 +21,7 @@ Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu
 perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
-		 _**for x in range (start,stop)**_
+		 for x in range (start,stop)
 
 ## Hasil Eksekusi ##
 
@@ -35,6 +35,15 @@ perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 - Perulangan while
 Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan
 yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
+
+		while kondisi:
+		perintah_yang_diulang
+
+- Pernyataan break
+pernyataan break digunakan untuk menghentikan proses perulangan pada kondisi tertentu. 
+
+		if a == 0:
+		break
 
 ## Hasil Eksekusi ##
 
